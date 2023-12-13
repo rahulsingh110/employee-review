@@ -21,7 +21,7 @@ To install all the dependences of the project, run the following command:
 
 
 #### Source Code:
- - Link : https://github.com/shakti1590/employee-review-sys
+ - Link : https://github.com/rahulsingh110/employee-review
 
 
 #### Deployment Link:
@@ -30,6 +30,6 @@ To install all the dependences of the project, run the following command:
 
 
 <p align="center">
-  Show some :heart: by starring the repository.
+  Show some :heart: Rahul by starring the repository.
 </p>
 
